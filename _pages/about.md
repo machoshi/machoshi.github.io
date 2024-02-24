@@ -1,7 +1,8 @@
 ---
 permalink: /
-title: "About"
+title: "Zhengyan Shi's homepage"
 author_profile: true
+excerpt: About me
 redirect_from: 
   - /about/
   - /about.html
