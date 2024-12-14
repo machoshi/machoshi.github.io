@@ -21,9 +21,9 @@ repository               : "machoshi/machoshi.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "photo.jpg"
+  avatar           : "photo.png"
   name             : "Zhengyan Shi"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he/him"  
   bio              : "Undergraduate student @ SJTU"
   location         : "Shanghai, China"
   employer         : "Shanghai Jiao Tong University"
