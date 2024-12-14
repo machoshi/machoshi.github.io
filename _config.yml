@@ -12,7 +12,7 @@ title                    : "Macho Shi / Homepage"
 title_separator          : "-"
 name                     : &name "Zhengyan Shi"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://machoshi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "machoshi/machoshi.github.io"
 
