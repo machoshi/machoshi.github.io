@@ -21,6 +21,9 @@ Publications
 ======
 
 <div style="display: flex; align-items: center;">
+    <div style="flex-shrink: 0; margin-right: 20px;">
+        <img src="/images/selkd.png" alt="Selective Knowledge Distillation" style="max-width: 300px;">
+    </div>
     <div>
         <h3 style="font-size: 18px; font-weight: bold; margin-bottom: 10px;">
             SelKD: Selective Knowledge Distillation via Optimal Transport Perspective
@@ -35,6 +38,9 @@ Publications
 </div>
 
 <div style="display: flex; align-items: center;">
+    <div style="flex-shrink: 0; margin-right: 20px;">
+        <img src="/images/gmcl.png" alt="Graph Matching Contrasting" style="max-width: 300px;">
+    </div>
     <div>
         <h3 style="font-size: 18px; font-weight: bold; margin-bottom: 10px;">
             Improving the Contrastive Learning via Graph Matching Perspective
