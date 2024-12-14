@@ -59,10 +59,23 @@ Publications
 Education
 ======
 
+<div style="margin: 1em 0; display: flex; align-items: flex-start;">
+
+<img src="/images/sjtu.png" style="height: 120px; margin-right: 20px; flex-shrink: 0;">
+
+<div>
+<h6 style="font-size: 1.1em;">Shanghai Jiao Tong University</h6><br>
+<text style="font-size: 1em;">2021.09-Present</text><br>
+<b style="font-size: 1em;">B.Eng. in Computer Science and Technology</b><br>
+<text style="font-size: 1em; color: #333;">Research intern at SJTU-ReThinkLab, advised by Prof. Junchi Yan</text>
+</div>
+
+</div>
+
 To know me better
 ======
 
 Hobbies
 ------
-I am a fan of R&B and Cantopop, and David Tao and Eason Chan are two of my favorite singers. I love singing (also good at, I think😋), because it makes me relaxed at any time. Also, sharing feelings and tastes about music with friends is enjoyable for me.
+I am a huge fan of R&B and Cantopop, and Khalil Fong is my favorite singer. Songs of David Tao and Eason Chan also appeal to be a lot. I love singing (also good at, I think😋), because it makes me relaxed at any time. Also, sharing feelings and tastes about music with friends is enjoyable for me.
 
