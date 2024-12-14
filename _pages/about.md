@@ -31,10 +31,6 @@ Publications
         <div style="font-size: 14px; color: gray;">
             under review @ ICLR 2025 (all positive scores @ OpenReview)
         </div>
-        <div style="font-size: 14px; margin-top: 10px;">
-<!--            <a href="https://arxiv.org/abs/2308.10848" style="text-decoration: none; color: blue;">[paper]</a>
-            <a href="https://github.com/OpenBMB/AgentVerse" style="text-decoration: none; color: blue;">[code]</a>
-        </div> -->
     </div>
 </div>
 
@@ -48,10 +44,6 @@ Publications
         </div>
         <div style="font-size: 14px; color: gray;">
             under review @ AAAI 2025
-        </div>
-        <div style="font-size: 14px; margin-top: 10px;">
-<!--             <a href="https://arxiv.org/abs/2308.10848" style="text-decoration: none; color: blue;">[paper]</a>
-            <a href="https://github.com/OpenBMB/AgentVerse" style="text-decoration: none; color: blue;">[code]</a> -->
         </div>
     </div>
 </div>
