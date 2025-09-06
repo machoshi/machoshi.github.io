@@ -32,7 +32,7 @@ Publications
             Liangliang Shi*, Zhengyan Shi*, Junchi Yan
         </div>
         <div style="font-size: 14px; color: gray;">
-            under review @ ICLR 2025 (all positive scores @ OpenReview)
+            ICLR 2025 Poster
         </div>
     </div>
 </div>
@@ -49,7 +49,41 @@ Publications
             Zhengyan Shi, Liangliang Shi, Junchi Yan
         </div>
         <div style="font-size: 14px; color: gray;">
-            under review @ AAAI 2025
+            Preprint
+        </div>
+    </div>
+</div>
+
+<div style="display: flex; align-items: center;">
+<!--     <div style="flex-shrink: 0; margin-right: 20px;">
+        <img src="/images/gmcl.png" alt="Graph Matching Contrasting" style="max-width: 300px;">
+    </div> -->
+    <div>
+        <h3 style="font-size: 18px; font-weight: bold; margin-bottom: 10px;">
+            Min: Mixture of Noise for Pre-Trained Model-Based Class-Incremental Learning
+        </h3>
+        <div style="font-size: 14px; margin-bottom: 10px;">
+            Kai Jiang, Zhengyan Shi, Dell Zhang, Hongyuan Zhang, Xuelong Li
+        </div>
+<!--         <div style="font-size: 14px; color: gray;">
+            NeurIPS 2025 Poster
+        </div> -->
+    </div>
+</div>
+
+<div style="display: flex; align-items: center;">
+<!--     <div style="flex-shrink: 0; margin-right: 20px;">
+        <img src="/images/gmcl.png" alt="Graph Matching Contrasting" style="max-width: 300px;">
+    </div> -->
+    <div>
+        <h3 style="font-size: 18px; font-weight: bold; margin-bottom: 10px;">
+            DB-OT: Optimal Transport with Double Bounds and its Applications in Clustering, Classification and Contrastive Learning
+        </h3>
+        <div style="font-size: 14px; margin-bottom: 10px;">
+            Zhengyan Shi, Yihui Tu, Junchi Yan, Liangliang Shi
+        </div>
+        <div style="font-size: 14px; color: gray;">
+            Preprint
         </div>
     </div>
 </div>
@@ -63,9 +97,22 @@ Education
 
 <div>
 <h6 style="font-size: 1.1em;">Shanghai Jiao Tong University</h6><br>
-<text style="font-size: 1em;">2021.09-Present</text><br>
+<text style="font-size: 1em;">2021.09-2025.06</text><br>
 <b style="font-size: 1em;">B.Eng. in Computer Science and Technology</b><br>
 <text style="font-size: 1em; color: #333;">Research intern at SJTU-ReThinkLab, advised by Prof. Junchi Yan</text>
+</div>
+
+</div>
+
+<div style="margin: 1em 0; display: flex; align-items: flex-start;">
+
+<img src="/images/cuhk.png" style="height: 120px; margin-right: 20px; flex-shrink: 0;">
+
+<div>
+<h6 style="font-size: 1.1em;">Chinese University of Hong Kong</h6><br>
+<text style="font-size: 1em;">2025.08-Present</text><br>
+<b style="font-size: 1em;">Ph.D. in Computer Science and Engineering</b><br>
+<text style="font-size: 1em; color: #333;">Ph.D. student at CURE Lab, advised by Prof. Qiang Xu</text>
 </div>
 
 </div>
