@@ -106,7 +106,7 @@ Education
 
 <div style="margin: 1em 0; display: flex; align-items: flex-start;">
 
-<img src="/images/cuhk.png" style="height: 120px; margin-right: 20px; flex-shrink: 0;">
+<img src="/images/cuhk.jpg" style="height: 120px; margin-right: 20px; flex-shrink: 0;">
 
 <div>
 <h6 style="font-size: 1.1em;">Chinese University of Hong Kong</h6><br>
